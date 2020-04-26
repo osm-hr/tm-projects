@@ -1,0 +1,6724 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698105",
+                "name": "Rt Torunza",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42535960000,
+                    44.56117140000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1102766237",
+                "name": "Rt Sućuraj",
+                "name:it": "P.ta di San Giorgio",
+                "natural": "cape",
+                "place": "locality",
+                "source": "http://digitalcollections.nypl.org/items/510d47df-8cbb-a3d9-e040-e00a18064a99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19654950000,
+                    43.12459020000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2623873142",
+                "name": "Rt Koromačno",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.11983480000,
+                    44.96287320000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514231445",
+                "name": "Rt Krojevica",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53004120000,
+                    44.45231660000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/728589937",
+                "name": "Rt Međed",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.54477370000,
+                    42.93936440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843898",
+                "name": "Tanki rt",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.73594470000,
+                    44.85078450000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102026310",
+                "name": "Rt Sv. Ivan",
+                "name:it": "Punta San Giovanni",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53111570000,
+                    45.39583430000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5029980451",
+                "name": "Rt Molnarić",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55262620000,
+                    45.27784480000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424986655",
+                "name": "Suhi rt",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21009700000,
+                    43.88760290000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6720476683",
+                "name": "Rt Vele stijene",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23891480000,
+                    44.66037440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211345814",
+                "name": "Rt Golubnjak",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67689270000,
+                    45.14442080000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346159",
+                "name": "Rt Županja",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39002990000,
+                    44.73632350000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838289",
+                "name": "Rt Zaglav",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47716950000,
+                    44.75430690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3950440267",
+                "name": "Rt Ždrijac",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53644980000,
+                    44.21955320000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748709",
+                "name": "Rt Peneda",
+                "name:it": "Punta Peneda",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75278660000,
+                    44.88819510000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6687937162",
+                "name": "Rt Arbit",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28129270000,
+                    44.60481730000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2107127527",
+                "name": "Rt Kaval",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04593210000,
+                    44.93178990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699446",
+                "name": "Artac",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40180700000,
+                    44.65484010000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/529886177",
+                "name": "Rt Lijak",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06879100000,
+                    43.24312860000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514231446",
+                "name": "Rt Ugradica",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55439570000,
+                    44.44075100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1606474189",
+                "name": "Rt Grmovac",
+                "natural": "cape",
+                "source": "U.S. Defense"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43780860000,
+                    43.53994060000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2739411341",
+                "name": "Rt Lako",
+                "name:it": "Punta Laco",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49018480000,
+                    45.48668810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/927085533",
+                "name": "Rt Kneže",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04779290000,
+                    42.97997150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626278651",
+                "name": "Lopata",
+                "natural": "cape",
+                "source": "Croatian geoportal: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66953750000,
+                    44.30164650000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102210801",
+                "name": "Rt Šilok",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57624270000,
+                    45.25609580000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699425",
+                "name": "Rt Žalić",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43440850000,
+                    44.57389410000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/63982852",
+                "name:it": "Punta Bora",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28571320000,
+                    44.67732410000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5624302091",
+                "name": "Rt Samotvorac",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67388880000,
+                    44.41325150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102026305",
+                "name": "Rt Kastanija",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53899990000,
+                    45.33057590000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698112",
+                "name": "Rt Baba",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53479560000,
+                    44.49868230000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424995616",
+                "name": "Suhi rt",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82481600000,
+                    44.16230100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6720476663",
+                "name": "Rt Kujni",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26468830000,
+                    44.65530200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2677082080",
+                "name": "Rt Sv. Petar",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58734270000,
+                    45.20571900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699455",
+                "name": "Rt Kolo",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36830720000,
+                    44.70158080000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/530267490",
+                "name": "Rt Ščit",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91579610000,
+                    43.37719080000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843908",
+                "name": "Rt Kanitalj",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69502180000,
+                    44.75739470000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2100400927",
+                "name": "Rt Kumpar",
+                "name:it": "Capo Compare",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79424210000,
+                    44.87544190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5458523942",
+                "name": "Rt Medvijak",
+                "natural": "cape",
+                "source": "Croatian geoportal: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.59086220000,
+                    44.35684940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424995389",
+                "name": "Veli rat",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81867180000,
+                    44.15188420000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211345821",
+                "name": "Rt Zaglev",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53482560000,
+                    45.20243800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843567",
+                "name": "Rt Sv. Nikola",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69034130000,
+                    44.84628170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4449627212",
+                "name": "Rt Ražanj",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74474640000,
+                    43.69064850000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1102840650",
+                "name": "Rt Križice",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.72795190000,
+                    43.01913940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626153095",
+                "name": "Rt Garmina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.78465410000,
+                    44.42158260000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2107127540",
+                "name": "Rt Vinjole",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03072790000,
+                    44.91238570000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698120",
+                "name": "Rt Podmalin",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46921830000,
+                    44.54090250000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/63861118",
+                "name": "Rt Frkanj",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.75494890000,
+                    44.75127870000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5624302086",
+                "name": "Mavrov rt",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.70373510000,
+                    44.35293520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1614365496",
+                "name": "Rt Stoja",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81352790000,
+                    44.85473680000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1102820554",
+                "name": "Rt Gatula",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.99690390000,
+                    42.95450080000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6760603189",
+                "name": "Bili Rat",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11289400000,
+                    43.00715130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2623873144",
+                "name": "Rt Prklog",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16282610000,
+                    45.04074610000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838295",
+                "name": "Rt Trstena",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51143740000,
+                    44.65137560000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748721",
+                "name": "Rt Slanik",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74471410000,
+                    44.92033610000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843902",
+                "name": "Rt Zidine",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71881240000,
+                    44.84770950000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102026312",
+                "name": "Rt Špic",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50173030000,
+                    45.47742520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5045476944",
+                "name": "Sakov rt",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60009540000,
+                    45.16364650000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1561366098",
+                "name": "Rt Golica",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92010910000,
+                    44.78039130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6760598923",
+                "name": "Rogačić",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18758540000,
+                    43.07891520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211345816",
+                "name": "Rt Pasjak",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67648150000,
+                    45.14767020000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346161",
+                "name": "Rt Červjeni kamik",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39299100000,
+                    44.72223770000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838291",
+                "name": "Rt Meli",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47888610000,
+                    44.73758870000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748712",
+                "name": "Mrtvi rt",
+                "natural": "cape",
+                "old_name:it": "Punta Moribon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77948130000,
+                    44.91389640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6711084030",
+                "name": "rt Krnjacol",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53259880000,
+                    44.98226070000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2107127535",
+                "name": "Rt Mulac",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.05254640000,
+                    44.94711710000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699432",
+                "name": "Rt Smardeća",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53861340000,
+                    44.62698270000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/529886183",
+                "name": "Rt Komoljača",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11059360000,
+                    43.20803390000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514231448",
+                "name": "Rt Južna Glavina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56596130000,
+                    44.45989810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3123601681",
+                "name": "Rt Prnat",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31552800000,
+                    44.95126650000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1103317387",
+                "name": "Rt Fumor",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.72590530000,
+                    43.02342350000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626299076",
+                "name": "Rt Čimbelić",
+                "natural": "cape",
+                "source": "Croatian geoportal: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72692490000,
+                    44.27457330000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2104552454",
+                "name": "Rt Križ",
+                "name:it": "Punta Croce",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60783380000,
+                    45.11743810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699427",
+                "name": "Rt Tanki",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40706590000,
+                    44.61149020000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/65864155",
+                "name:it": "Punta delle Cave",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62299240000,
+                    45.09993100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626153088",
+                "name": "Rt Tale",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.74441830000,
+                    44.36853770000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102026307",
+                "name": "Rt Malin",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53549380000,
+                    45.37538320000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698114",
+                "name": "Rt Kriška",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52491410000,
+                    44.51032130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6720476678",
+                "name": "Rt Pejni",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28861590000,
+                    44.66756700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2711714395",
+                "name": "Rt Nedelja",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.64982330000,
+                    42.88033260000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514192311",
+                "name": "Rt M. Orjule",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56759210000,
+                    44.49503600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748706",
+                "name": "Rt Vrbanj",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73925180000,
+                    44.92166350000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608844042",
+                "name": "Rt Kaštelina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69867820000,
+                    44.79541630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1896560198",
+                "name": "Rt Večka Kula",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45378310000,
+                    44.27935400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698094",
+                "name": "Rt Podžupani",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42439980000,
+                    44.58435480000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1377047948",
+                "name": "Rt Babno",
+                "name:it": "Punta Babni",
+                "natural": "cape",
+                "seamark:light:character": "Fl",
+                "seamark:light:colour": "red",
+                "seamark:light:height": "12",
+                "seamark:light:period": "2",
+                "seamark:light:range": "4",
+                "seamark:light:reference": "E 2857",
+                "seamark:light:sequence": "0.3+(1.7)",
+                "seamark:name": "Rt Babno",
+                "seamark:type": "light_minor",
+                "source": "US NGA Pub. 113. 2010-10-22."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56029420000,
+                    45.28369580000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211382219",
+                "name": "Rt Goljak",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48271410000,
+                    45.12801260000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843571",
+                "name": "Rt Suha punta",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72309380000,
+                    44.75454390000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1102840657",
+                "name": "Zlatna glava",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74052490000,
+                    43.01635760000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626236499",
+                "name": "Rt Planik",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86727430000,
+                    44.37110640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2114107667",
+                "name": "Rt Savudrija",
+                "name:it": "Punta Salvore",
+                "natural": "cape",
+                "wikidata": "Q3925718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49068130000,
+                    45.49000120000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699422",
+                "name": "Rt Runjica",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45531330000,
+                    44.55325130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/63865153",
+                "name": "Mišnjak",
+                "natural": "cape",
+                "wikidata": "Q25291568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89976100000,
+                    44.49739010000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346142",
+                "name": "Rt Koludar",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33031320000,
+                    44.82548450000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1561366121",
+                "name": "Rt Škara",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92159090000,
+                    44.77656760000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1102840617",
+                "name": "Rt Šijabod",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.76794930000,
+                    43.03149430000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2105516009",
+                "name": "Rt Datule",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71165870000,
+                    45.00898220000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838297",
+                "name": "Rt Ui",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51143740000,
+                    44.64600210000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748723",
+                "name": "Rt Glavina",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73494350000,
+                    44.94102600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843905",
+                "name": "Rt Kamplaka",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67851590000,
+                    44.79854040000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102210775",
+                "name": "Grgetov rt",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58845090000,
+                    45.17562520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1561366104",
+                "name": "Rt Ivanšovica",
+                "natural": "cape",
+                "source": "U.S. Defense Mapping Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90380190000,
+                    44.77811000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6760598925",
+                "name": "Rt Okuc",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12410330000,
+                    43.07839300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211345818",
+                "name": "Rt Sveti Marak",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66990000000,
+                    45.10538790000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838293",
+                "name": "Rt Toverašćica",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49794050000,
+                    44.67649620000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748717",
+                "name": "Rt Ploče",
+                "natural": "cape",
+                "old_name:it": "Punta Grossa di Val Laura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76485760000,
+                    44.90121720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5820738999",
+                "name": "Rt Artatur",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12767220000,
+                    43.47877120000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1948980743",
+                "name": "Rt Sv. Nikola",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54880260000,
+                    43.38807130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699434",
+                "name": "Rt Pličina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52783360000,
+                    44.61667260000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514231450",
+                "name": "Rt Glavičina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56606860000,
+                    44.45960720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3197925813",
+                "name": "Rt Kijac",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47930170000,
+                    44.53704820000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626299078",
+                "name": "Rt Varšovnik",
+                "natural": "cape",
+                "source": "Croatian geoportal: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.70959080000,
+                    44.29141150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2104552458",
+                "name": "Rt Montauro",
+                "name:it": "Punta Montauro",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62729430000,
+                    45.07042810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699430",
+                "name": "Rt Vlaška",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54127100000,
+                    44.63566620000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608885613",
+                "name": "Rt Glavina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86849310000,
+                    44.70366480000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102026309",
+                "name": "Rt Monterol",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51237350000,
+                    45.45147270000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698100",
+                "name": "Rt Podjama",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37294850000,
+                    44.59023630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1561366093",
+                "name": "Rt Franina",
+                "name:it": "Punta Franina",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92637490000,
+                    44.76968990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2397422247",
+                "name": "Škuljica",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76246020000,
+                    44.94084160000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514192313",
+                "name": "Rt Brodina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55297940000,
+                    44.49376560000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748737",
+                "name": "Rt Slavulja",
+                "name:it": "Punta Saluga",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77671650000,
+                    44.91880510000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608885207",
+                "name": "Gornji rt",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84094140000,
+                    44.68516220000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698096",
+                "name": "Rt Kolo",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35415870000,
+                    44.64253760000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211382221",
+                "name": "Rt Pelova",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47561910000,
+                    45.12909770000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843895",
+                "name": "Rt Šilo",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.75397640000,
+                    44.85052010000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1103295151",
+                "name": "Rt Stončica",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25372660000,
+                    43.07156580000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6658649137",
+                "name": "Rt Poljana",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44245810000,
+                    44.55367070000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211345812",
+                "name": "Rt Družin",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.68064160000,
+                    45.13525480000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699441",
+                "name": "Rt Plantur",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46233120000,
+                    44.62141490000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346144",
+                "name": "Rt Tiha",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33627840000,
+                    44.81501280000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1564366714",
+                "name": "Rt Mugli",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91808320000,
+                    44.81126700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3506913874",
+                "name": "Rt Kurent",
+                "name:it": "Punta Corrente",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62892390000,
+                    45.06335950000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2105516011",
+                "name": "Rt Gustinja",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69107170000,
+                    45.02376970000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838299",
+                "name": "Rt Zaklopica",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53553440000,
+                    44.64210910000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748727",
+                "name": "Rt Draga",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74610170000,
+                    44.90567030000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843907",
+                "name": "Donja Punta",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65421970000,
+                    44.79094700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102210791",
+                "name": "Rt Magrina",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59634340000,
+                    45.16769220000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698107",
+                "name": "Rt Kraljevac",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42699730000,
+                    44.54445060000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1561366115",
+                "name": "Rt Kašteja",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93068300000,
+                    44.80324980000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6711084031",
+                "name": "rt Tenka punta",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55482040000,
+                    44.95760440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211345820",
+                "name": "Rt Veterna",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67315240000,
+                    45.12737910000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699449",
+                "name": "Rt Lopari",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39944890000,
+                    44.68434740000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/529886185",
+                "name": "Rt Igrane",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13748680000,
+                    43.19284590000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6343309136",
+                "name": "Rt Dno kampa",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19779960000,
+                    43.07516900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2018272767",
+                "name": "Rt Gradina",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.96070230000,
+                    43.52236660000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699436",
+                "name": "Punta Križa",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52012300000,
+                    44.61009130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424991782",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07776180000,
+                    43.95048970000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514231452",
+                "name": "Rt Glavina mala",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54954620000,
+                    44.47170500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626299080",
+                "name": "Suhi Rt",
+                "natural": "cape",
+                "source": "Croatian geoportal: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.68492630000,
+                    44.28939150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2104552463",
+                "name": "Rt Sv. Feliks",
+                "name:it": "Capo S. Felice",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62884340000,
+                    45.13078640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698115",
+                "name": "Rt Arat",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51507000000,
+                    44.51950270000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608885965",
+                "name": "Rt Artić",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.77934720000,
+                    44.74765520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1614139422",
+                "name": "Rt Ribnjak",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80652160000,
+                    44.91280860000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698102",
+                "name": "Rt Tizna",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38623610000,
+                    44.55512030000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/927085535",
+                "name": "Rt Borov",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76519510000,
+                    42.97597580000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2485331464",
+                "name": "Kapich",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24978830000,
+                    42.39368130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514192315",
+                "name": "Rt Glavičina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54461100000,
+                    44.50902400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748743",
+                "name": "Plitki rt",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74732980000,
+                    44.93462670000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608885210",
+                "name": "Rt Sokolišće",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81080410000,
+                    44.76775270000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1947971184",
+                "name": "Bijaka",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43437060000,
+                    43.33046640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698098",
+                "name": "Rt Studenčić",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38462660000,
+                    44.59833900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2378263675",
+                "name": "Rt Kruna",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89527100000,
+                    44.15297570000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346156",
+                "name": "Rt Strakačine",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36730620000,
+                    44.77402130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838286",
+                "name": "Rt Okladi",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45431710000,
+                    44.85157920000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3950422563",
+                "name": "Rt Sveti Nikola",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.54542960000,
+                    44.18825940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1103317384",
+                "name": "Rt Trepina",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.75123530000,
+                    43.03374950000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6661603192",
+                "name": "Rt Žaplić",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32345440000,
+                    44.57017810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2106308661",
+                "name": "Rt Uljeva",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99247210000,
+                    44.82029000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699443",
+                "name": "Rt Kalk",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44275540000,
+                    44.64075320000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346146",
+                "name": "Rt Kijak",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34724330000,
+                    44.81015690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1564432510",
+                "name": "Rt Stari Paljež",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94784500000,
+                    44.80362330000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3547021774",
+                "natural": "cape",
+                "old_name:it": "Punta Naviglio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74705900000,
+                    44.89453990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/927085489",
+                "name": "Rt Gnjilanski",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90997190000,
+                    42.97062570000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2105516013",
+                "name": "Rt Martulin",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78196500000,
+                    44.95150610000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514192310",
+                "name": "Rt Glavičina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56735610000,
+                    44.48230000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748733",
+                "name": "Rt Kozlac",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77013890000,
+                    44.90234990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5624302088",
+                "name": "Arat",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72927930000,
+                    44.34966660000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102026302",
+                "name": "Rt Dajla",
+                "name:it": "Punta Dàlia",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53862500000,
+                    45.35241560000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698109",
+                "name": "Rt Madona",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44799550000,
+                    44.52566730000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1561366120",
+                "name": "Rt Tolinica",
+                "natural": "cape",
+                "source": "U.S. Defense Mapping Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90366480000,
+                    44.78248150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6720476657",
+                "name": "Rt Maračol",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26551730000,
+                    44.63980960000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2623873146",
+                "name": "Rt Sv. Juraj",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16052310000,
+                    45.05936350000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699452",
+                "name": "Artić",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39621120000,
+                    44.68929710000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/529959226",
+                "name": "Rt Ramova",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99535990000,
+                    43.31224740000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2018287770",
+                "name": "Rt Sustipan",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42857620000,
+                    43.50066500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699438",
+                "name": "Rt Lunka",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50874430000,
+                    44.60787960000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424994710",
+                "name": "Rt Lopata",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87583800000,
+                    44.12446300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608842860",
+                "name": "Rt Njivica",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79199650000,
+                    44.78221580000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4392221116",
+                "name": "Rt Pod Poljica",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16725040000,
+                    43.89676130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626153091",
+                "name": "Rt Kvoško",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82054000000,
+                    44.35273220000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2107127537",
+                "name": "Rt Sočaja",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.05038890000,
+                    44.93788320000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698117",
+                "name": "Rt Baldarka",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48961760000,
+                    44.52718830000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608885967",
+                "name": "Rt Glavina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80612630000,
+                    44.77108890000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1614365482",
+                "name": "Rt Od Volam",
+                "natural": "cape",
+                "source": "U.S. Defense Mapping Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87328420000,
+                    44.80488610000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698104",
+                "name": "Rt Salzina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40629860000,
+                    44.55872080000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2623873141",
+                "name": "Crna punta",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14515930000,
+                    44.95639520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514231444",
+                "name": "Siroki rt",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52875370000,
+                    44.45505830000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748746",
+                "name": "Rt Dražice",
+                "natural": "cape",
+                "old_name:it": "Punta Canaluzi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74698220000,
+                    44.90226880000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843897",
+                "name": "Rt Stunič",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.73833020000,
+                    44.84803890000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1948965609",
+                "name": "Rt Drasina",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61904140000,
+                    43.26023980000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5029958639",
+                "name": "Rt Oštro",
+                "name:it": "Punta d'Ostro",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56005160000,
+                    45.27318190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424986212",
+                "name": "Rt Turčina",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20063900000,
+                    43.87365300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6720476682",
+                "name": "Rt Male stijene",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23804120000,
+                    44.65686490000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211345813",
+                "name": "Rt Glavina",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57705350000,
+                    45.24141590000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346158",
+                "name": "Rt Ustrine",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38430070000,
+                    44.74368520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838288",
+                "name": "Rt Sv. Duh",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46970220000,
+                    44.78955640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3950440266",
+                "name": "Rt Vozarica",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60474740000,
+                    44.16662990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748708",
+                "name": "Rt Hlibine",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72925280000,
+                    44.93580680000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6680143831",
+                "name": "Rt Oštra",
+                "natural": "cape",
+                "wikidata": "Q1091493",
+                "wikipedia": "hr:Oštra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53369490000,
+                    42.39246270000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2107127522",
+                "name": "Rt Duga",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.02819140000,
+                    44.90522450000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699445",
+                "name": "Rt Kolo",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40132040000,
+                    44.64894210000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/529886176",
+                "name": "Rt Tekla",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.07661140000,
+                    43.23317420000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346148",
+                "name": "Rt pod Orlec",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36687710000,
+                    44.79998700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1606271606",
+                "name": "Rt Marjan",
+                "natural": "cape",
+                "source": "U.S. Defense"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38837350000,
+                    43.50797990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2725177703",
+                "name": "Rt Mašnjak",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20774780000,
+                    45.11598970000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/927085530",
+                "name": "Rt Lozic",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.71285210000,
+                    42.99047180000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626278650",
+                "name": "Zubić",
+                "natural": "cape",
+                "source": "Croatian geoportal: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58330450000,
+                    44.35125200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2106308655",
+                "name": "Rt Debela",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00120200000,
+                    44.81133440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699424",
+                "name": "Rt Potfortica",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44013530000,
+                    44.56757460000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/63968216",
+                "name": "Suhi Rt",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22058140000,
+                    43.86982180000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5624302090",
+                "name": "Rt Karf",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.70665930000,
+                    44.39783610000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102026304",
+                "name": "Rt Katoro",
+                "name:it": "Punta Cattoro",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50872180000,
+                    45.45851800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698111",
+                "name": "Rt Trasorka",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54112120000,
+                    44.49182070000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424995543",
+                "name": "Rt Oključić",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.83817200000,
+                    44.16067600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6720476659",
+                "name": "Rt Vnetak",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23570030000,
+                    44.61894410000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2630192743",
+                "name": "Rt Sokol",
+                "natural": "cape",
+                "old_name:it": "Punta Antillina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74973440000,
+                    44.93063330000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699454",
+                "name": "Debeli rt",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38101310000,
+                    44.70100660000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/530263665",
+                "name": "Rt Dugi Rat /Punta Rata",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92277580000,
+                    43.36989920000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2041666943",
+                "name": "Čopova punta",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42138160000,
+                    43.50251870000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5424040779",
+                "name": "Rt Lokunji",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.27999680000,
+                    44.68950530000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424995244",
+                "name": "Rt Glavica",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90680000000,
+                    44.14508200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843563",
+                "name": "Rt Gros",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.75357240000,
+                    44.84427580000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1614365509",
+                "name": "Rt Varudica",
+                "name:hr": "Rt Varudica",
+                "name:it": "Punta Verudela",
+                "natural": "cape",
+                "place": "locality",
+                "source": "U.S. Defense Mapping Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83368090000,
+                    44.83273190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4446200196",
+                "name": "Medoš",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.69137240000,
+                    43.71625170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1102840631",
+                "name": "Rt Pernikoza",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.00538550000,
+                    42.99389730000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626153094",
+                "name": "Arat",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81058050000,
+                    44.39950270000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2107127539",
+                "name": "Rt Ubac",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06460360000,
+                    44.94508870000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698119",
+                "name": "Rt Kijač",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47984840000,
+                    44.53674060000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5624302084",
+                "name": "Rt Pocukmarak",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.68973630000,
+                    44.36618800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1614365492",
+                "name": "Rt Rakovica",
+                "natural": "cape",
+                "source": "U.S. Defense Mapping Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86228510000,
+                    44.81188860000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698106",
+                "name": "Rt Križa",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43012130000,
+                    44.55719880000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1102820549",
+                "name": "Rt Biskup",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.01797650000,
+                    42.95988130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2623873143",
+                "name": "Rt Kremen",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07725260000,
+                    44.94741990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838294",
+                "name": "Tanki rt",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51323980000,
+                    44.66387620000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843899",
+                "name": "Rt Stojan",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72965560000,
+                    44.85326630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102026311",
+                "name": "Rt Lokvina",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54053890000,
+                    45.33804920000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5029993614",
+                "name": "Rt Dobra",
+                "name:it": "Punta Križ",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57491990000,
+                    45.28629420000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1561366095",
+                "name": "Rt Glavica",
+                "natural": "cape",
+                "source": "U.S. Defense Mapping Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90199680000,
+                    44.79877440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6757912623",
+                "name": "Rt Stupišće",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06766610000,
+                    43.00660330000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211345815",
+                "name": "Rt Kijac",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53590250000,
+                    45.23666960000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346160",
+                "name": "Tanki rt",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38966510000,
+                    44.72472280000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838290",
+                "name": "Rt Prepoved",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48023790000,
+                    44.74373090000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4174850420",
+                "description": "Cape",
+                "name": "rt Lipica",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56239040000,
+                    45.26573300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748711",
+                "name": "Rt Bijela vila",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74954140000,
+                    44.91896950000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6711084028",
+                "name": "rt Mali Pin",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52096760000,
+                    44.98787680000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2107127531",
+                "name": "Rt Kavran",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.02503700000,
+                    44.90224920000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699447",
+                "name": "Rt Ogradina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39980450000,
+                    44.66029810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/529886179",
+                "name": "Rt Dračevac",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06125190000,
+                    43.24851650000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514231447",
+                "name": "Rt Sućadrija",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56536050000,
+                    44.45622240000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2835215025",
+                "name": "Oštrica",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91094170000,
+                    43.64500720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/927085534",
+                "name": "Rt V Stinjiva",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.72395200000,
+                    42.98924690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626299075",
+                "name": "Rt Satrin",
+                "natural": "cape",
+                "source": "Croatian geoportal: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71424510000,
+                    44.27031640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2104552451",
+                "name": "Rt Babo",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68191820000,
+                    45.04408030000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699426",
+                "name": "Rt Lokvica",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40914330000,
+                    44.60577440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/65863685",
+                "natural": "cape",
+                "old_name:it": "Punta Barbana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73387790000,
+                    44.92547700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5625389034",
+                "name": "Rt Manganel",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43226400000,
+                    45.07605870000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102026306",
+                "name": "Rt Lovrečica",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53252450000,
+                    45.38683640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698113",
+                "name": "Rt Jamna",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52865710000,
+                    44.50332750000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424995773",
+                "name": "Rt Shajanje",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.83193470000,
+                    44.16486770000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6720476664",
+                "name": "Rt Mišnjak",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.27769270000,
+                    44.65626550000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2711714378",
+                "name": "Gnjili Rat",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60824650000,
+                    42.89535930000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699457",
+                "name": "Rt Osor",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34005820000,
+                    44.71309130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/631481445",
+                "name": "Rt rep Kleka",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.55201430000,
+                    42.93392780000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608844040",
+                "name": "Rt Lopižina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71760420000,
+                    44.84195440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5490711254",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53709280000,
+                    45.30502640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424995453",
+                "name": "Rt Trgovišće",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81864000000,
+                    44.15497900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211382218",
+                "name": "Rt Glavotok",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43574460000,
+                    45.09340220000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843570",
+                "name": "Rt Kalifront",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65760740000,
+                    44.79726960000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1837901301",
+                "name": "Rt Veli Kamik",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90837900000,
+                    44.13953420000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1102840656",
+                "name": "Rt Ražanj",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.99934950000,
+                    42.97560770000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626223344",
+                "name": "Rt Obinj",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76694090000,
+                    44.39463590000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2107127542",
+                "name": "Rt Škrila",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.02941340000,
+                    44.91897790000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699421",
+                "name": "Rt Privlaka",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46377820000,
+                    44.54582450000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/63862154",
+                "name": "rt Veli Pin",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48511720000,
+                    44.98193130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346141",
+                "name": "Rt Breg",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32896140000,
+                    44.84500720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1614365503",
+                "name": "Rt Sveti Ivan",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82713680000,
+                    44.83590640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1102820560",
+                "name": "Rt Kobila",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.02060710000,
+                    42.98769350000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6760603198",
+                "name": "Rt Polivalo",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21521590000,
+                    43.01739080000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2105516008",
+                "name": "Rt Barbariga",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73476010000,
+                    44.98617830000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838296",
+                "name": "Rt Zmorac",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50939890000,
+                    44.64842940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748722",
+                "name": "Rt Kavran",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77841150000,
+                    44.90409290000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843903",
+                "name": "Rt Sorinj",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67777870000,
+                    44.84477710000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102210773",
+                "name": "Debeli rt",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58070320000,
+                    45.19855580000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1561366100",
+                "name": "Rt Grakalovac",
+                "natural": "cape",
+                "source": "U.S. Defense Mapping Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90092100000,
+                    44.79081470000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6760598924",
+                "name": "Rt Nova Pošta",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18520380000,
+                    43.08138570000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211345817",
+                "name": "Rt Petrina",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66787930000,
+                    45.12136820000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346162",
+                "name": "Rt Abis",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39271210000,
+                    44.70416810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838292",
+                "name": "Rt Loski",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47081800000,
+                    44.71365350000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748716",
+                "name": "Rt Garme",
+                "natural": "cape",
+                "old_name:it": "Punta Carmen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76703370000,
+                    44.92104700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5768492617",
+                "name": "Maslov bod",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.68115270000,
+                    43.19069850000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2107127536",
+                "name": "Rt Seka",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01594820000,
+                    44.89566040000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699433",
+                "name": "Rt Meli",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53273690000,
+                    44.62402570000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514231449",
+                "name": "Supetarski rt",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54102750000,
+                    44.46904060000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3197925812",
+                "name": "Rt Cikat",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44516030000,
+                    44.53023480000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626299077",
+                "name": "Trišćeni rt",
+                "natural": "cape",
+                "source": "Croatian geoportal: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72282090000,
+                    44.28356730000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2104552456",
+                "name": "Rt Kuvi",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65135780000,
+                    45.06466990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699428",
+                "name": "Rt Lučica",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40457680000,
+                    44.61635280000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626153089",
+                "name": "Rt Zubinin",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79688980000,
+                    44.34131720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102026308",
+                "name": "Rt Mujela",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55348770000,
+                    45.32138120000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698099",
+                "name": "Rt Liski",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38006020000,
+                    44.59476750000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2725177687",
+                "name": "Rt Brestova",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22502470000,
+                    45.13831200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514192312",
+                "name": "Rt Baba",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56160540000,
+                    44.49312270000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748736",
+                "name": "Rt Trstike",
+                "natural": "cape",
+                "old_name:it": "Punta Grossa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74645450000,
+                    44.89142880000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608844044",
+                "name": "Rt Kristofor",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.70394640000,
+                    44.75460750000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1898645528",
+                "name": "Rt. Pisak",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.47810250000,
+                    44.26794420000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698095",
+                "name": "Rt Tomožina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35060280000,
+                    44.64575990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1377943962",
+                "name": "Rt Kriz",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94287950000,
+                    44.20180490000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211382220",
+                "name": "Rt Jasenovac",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46330610000,
+                    45.11803790000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843674",
+                "name": "Rt Stolac",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.75709560000,
+                    44.82512680000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1103294075",
+                "name": "Rt Stračine",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24186050000,
+                    43.07576960000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626236500",
+                "name": "Rt Glavica",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84772640000,
+                    44.38849480000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211345811",
+                "name": "Rt Bejavec",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.60394920000,
+                    45.22465770000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699440",
+                "name": "Rt Frantin",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47432810000,
+                    44.61487980000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/63893276",
+                "name": "Rt Šip",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76095950000,
+                    44.41609250000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346143",
+                "name": "Ratac",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33593510000,
+                    44.82137520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1561366122",
+                "name": "Rt Školjić",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92061550000,
+                    44.79595710000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2105516010",
+                "name": "Rt Debeljak",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74538960000,
+                    44.98536940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838298",
+                "name": "Rt Kolorat",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52708000000,
+                    44.64325410000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748724",
+                "name": "Rt Kamik",
+                "natural": "cape",
+                "old_name:it": "Punta Cavarolla"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75898670000,
+                    44.89275580000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843906",
+                "name": "Gornja Punta",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66360690000,
+                    44.80081720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102210787",
+                "name": "Rt Jurina",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58958070000,
+                    45.18582380000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5422589299",
+                "name": "Rt. Radovan",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57993030000,
+                    44.44067440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1561366112",
+                "name": "Rt Kamenjak",
+                "name:de": "Kap Kamenjak",
+                "name:it": "Capo Promontore",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92426090000,
+                    44.76660510000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6760598935",
+                "name": "Križni rat",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06431860000,
+                    43.04177590000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2211345819",
+                "name": "Rt Tepka",
+                "natural": "cape",
+                "source": "US Defence"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53033760000,
+                    45.22980350000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699448",
+                "name": "Rt Suplatunski",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40955500000,
+                    44.67171850000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748719",
+                "name": "Rt Jezero",
+                "natural": "cape",
+                "old_name:it": "Punta Val di Lago"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74946220000,
+                    44.89944680000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2018272761",
+                "name": "Debeli Rt",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.95365610000,
+                    43.52709710000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699435",
+                "name": "Rt Baldarin",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52236880000,
+                    44.61200980000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424987549",
+                "name": "Rt Čuška",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22602800000,
+                    43.89617900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514231451",
+                "name": "Rt Glavina",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56048960000,
+                    44.46683550000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3197925814",
+                "name": "Rt Leva",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50154910000,
+                    44.52397780000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626299079",
+                "name": "Rt Glavica",
+                "natural": "cape",
+                "source": "Croatian geoportal: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69427170000,
+                    44.29314280000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2104552460",
+                "alt_name:it": "Punta Mouccia",
+                "name": "Rt Muća",
+                "name:it": "Punta Muccia",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63079750000,
+                    45.09451790000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699431",
+                "name": "Rt Sv. Damian",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54568770000,
+                    44.63121810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608885614",
+                "name": "Plitki rt",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84362360000,
+                    44.74162770000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1614139420",
+                "name": "Rt Debeljuh",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80660840000,
+                    44.88271580000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698101",
+                "name": "Rt Kurila",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36826980000,
+                    44.56189450000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1561366094",
+                "name": "Rt Gladulje",
+                "natural": "cape",
+                "source": "U.S. Defense Mapping Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90538030000,
+                    44.77505810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2406662581",
+                "name": "Montraker",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59817660000,
+                    45.15310050000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514192314",
+                "name": "Rt Podmasline",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55057620000,
+                    44.49935210000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748741",
+                "name": "Rt Kosir",
+                "natural": "cape",
+                "old_name:it": "Punta Rancon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78223800000,
+                    44.90741090000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608885209",
+                "name": "Rt Krklant",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82756260000,
+                    44.75816200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698097",
+                "name": "Debeli rt",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38268030000,
+                    44.61211640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2335913845",
+                "name": "Rt Proština",
+                "name:it": "Punta Cristo",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79431660000,
+                    44.89053320000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346149",
+                "name": "Rt Lučica",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36340090000,
+                    44.78739390000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1103300797",
+                "alt_name": "Rt Vela Smokova",
+                "name": "Rt od Vele Smokove",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25596740000,
+                    43.05894320000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6661534003",
+                "name": "Rt Šilo",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33984750000,
+                    44.56072700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2106308660",
+                "name": "Rt Marlera",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00369540000,
+                    44.80529490000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699442",
+                "name": "Rt Kaldonta",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45076540000,
+                    44.63137790000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346145",
+                "name": "Rt Bobaraski",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36022520000,
+                    44.81152700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1564366729",
+                "name": "Rt Runke",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91963590000,
+                    44.80826200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3506913875",
+                "name": "Rt Škaraba",
+                "name:it": "Capo Scaraba",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63728010000,
+                    45.06346360000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/927085468",
+                "name": "Rt Debola",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06092080000,
+                    42.97179990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2105516012",
+                "name": "Rt Marić",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75401060000,
+                    44.98551350000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514192309",
+                "name": "Rt Cirka",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57098240000,
+                    44.48539240000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748732",
+                "name": "Rt Turanj",
+                "natural": "cape",
+                "old_name:it": "Punta Val di Torre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75972100000,
+                    44.92398370000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5624302087",
+                "name": "Južni Arat",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72316210000,
+                    44.34692660000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102210797",
+                "name": "Rt Sv. Martin",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58965080000,
+                    45.24903170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698108",
+                "name": "Rt Čikat",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44473910000,
+                    44.53007020000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1561366118",
+                "name": "Rt Kršine",
+                "natural": "cape",
+                "source": "U.S. Defense Mapping Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90534140000,
+                    44.76970400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6711084032",
+                "name": "rt Madona",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54109220000,
+                    44.95298480000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2623873145",
+                "name": "Rt Sv. Andrija",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16489340000,
+                    45.07239690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699451",
+                "name": "Rt Lučić",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39997290000,
+                    44.68790000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/529886191",
+                "name": "Rt Jasenovac",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.15578940000,
+                    43.18901880000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6376785092",
+                "name": "Rt Zub",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56868260000,
+                    45.29831130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2018272769",
+                "name": "Rt Varoš",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.97333390000,
+                    43.51308630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699437",
+                "name": "Rt Lučica",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51566890000,
+                    44.60907870000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424991883",
+                "name": "Rt Zaglavić",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07292560000,
+                    43.95598210000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346135",
+                "name": "Rt Morganjić",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30207490000,
+                    44.76998450000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4391982314",
+                "name": "Punta Kadena",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21018980000,
+                    43.87768190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626153090",
+                "name": "Rt Ploče",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81606620000,
+                    44.34191870000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2104552465",
+                "name": "Rt Sv. Fuma",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61509030000,
+                    45.12010070000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698116",
+                "name": "Rt Vila",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49923710000,
+                    44.52521360000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608885966",
+                "name": "Rt Gabar",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.85282890000,
+                    44.69879950000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1614365481",
+                "name": "Rt Bumbište",
+                "name:it": "Capo Bombiste",
+                "natural": "cape",
+                "source": "U.S. Defense Mapping Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85606090000,
+                    44.81575610000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698103",
+                "name": "Beli Art",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39248690000,
+                    44.55349330000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/927085563",
+                "name": "Rt Prihodisce",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88721100000,
+                    42.96436940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2583969143",
+                "name": "Rt Kolucinka",
+                "natural": "cape",
+                "source": "medulin.hr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85364610000,
+                    44.81766630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514231443",
+                "name": "Rt Nozdre",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53392500000,
+                    44.46165940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748744",
+                "name": "Rt Javorika",
+                "natural": "cape",
+                "old_name:it": "Punta Berta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76170420000,
+                    44.90565120000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608885612",
+                "name": "Donji rt",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76802820000,
+                    44.74301460000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1948007653",
+                "name": "Blacina glava",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.51532500000,
+                    43.27387160000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5029944842",
+                "name": "Rt Nirvana",
+                "name:it": "Punta della Fortezza",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56232510000,
+                    45.27668060000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424986022",
+                "name": "Rt Vidilica",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20111100000,
+                    43.86689800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6720476679",
+                "name": "Rt Glavina",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28633040000,
+                    44.67685460000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2397380964",
+                "name": "Rt Vošćica",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.59095070000,
+                    45.23879250000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346157",
+                "name": "Rt Bela",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37091110000,
+                    44.75465740000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5513838287",
+                "name": "Rt Sv. Šimun",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45935960000,
+                    44.84281630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3950422564",
+                "name": "Rt Rijeka",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58657140000,
+                    44.20238580000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748707",
+                "name": "Rt Nozdre",
+                "natural": "cape",
+                "old_name:it": "Punta Naso"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77238960000,
+                    44.90471680000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6661603194",
+                "name": "Rt Straža",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29649860000,
+                    44.59216270000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2107127518",
+                "name": "Rt Cuf",
+                "name:hr": "Rt Cuf",
+                "name:it": "Punta Zuffo",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00365800000,
+                    44.88644330000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699444",
+                "name": "Rt Seka",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41058430000,
+                    44.66799180000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/529886175",
+                "name": "Rt Osejava",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01651370000,
+                    43.28862980000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5514346147",
+                "name": "Rt Zaglav",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36269280000,
+                    44.80572680000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1569184125",
+                "name": "Rt Artić",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60608300000,
+                    43.82699690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/927085527",
+                "name": "Rt Blaca",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86296190000,
+                    42.95934350000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2105610343",
+                "name": "Rt Bosuja",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57390790000,
+                    45.26405200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699423",
+                "name": "Rt Poljana",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44601180000,
+                    44.56266790000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/726748735",
+                "name": "Rt Kadulja",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73021100000,
+                    44.93109170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5624302089",
+                "name": "Rt Marta",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71381810000,
+                    44.36984630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2102026303",
+                "name": "Rt Karigador",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55211900000,
+                    45.35643020000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698110",
+                "name": "Rt Kornu",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52042250000,
+                    44.47371480000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424995494",
+                "name": "Rt Zaglav",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88781900000,
+                    44.15786000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6720476658",
+                "name": "Rt Nart",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23203070000,
+                    44.63057970000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2623873147",
+                "name": "Rt Sv. Marina",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16092490000,
+                    45.03133670000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699453",
+                "name": "Rt Skaline",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38574950000,
+                    44.69715980000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/530262863",
+                "name": "Punta Soline",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92898220000,
+                    43.36697050000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2041666935",
+                "name": "Sturine",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39948100000,
+                    43.50515780000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510699439",
+                "name": "Rt Suha",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49931200000,
+                    44.60238990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1424995066",
+                "name": "Rt Sv. Nedjelja",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91174500000,
+                    44.14173000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5608843558",
+                "name": "Rt Saramić",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76053950000,
+                    44.84235990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1614365505",
+                "is_in:country_code": "HR",
+                "is_in:sea": "Adriatic See",
+                "name": "Rt Valovina",
+                "natural": "cape",
+                "source": "U.S. Defense Mapping Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80637060000,
+                    44.85910480000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4446146321",
+                "name": "Punta Jedinjače",
+                "natural": "cape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.70749140000,
+                    43.70071830000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5626153093",
+                "name": "Rt Slanac",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80463740000,
+                    44.38952480000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2107127538",
+                "name": "Rt Sv. Stipan",
+                "natural": "cape",
+                "place": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00168160000,
+                    44.86330340000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5510698118",
+                "name": "Sropotinski rt",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48684780000,
+                    44.53159110000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5624302083",
+                "name": "Rt Borci",
+                "natural": "cape",
+                "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65899930000,
+                    44.40092190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1614365485",
+                "name": "Rt Paljež",
+                "natural": "cape",
+                "source": "U.S. Defense Mapping Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86799120000,
+                    44.80846630000
+                ]
+            }
+        }
+    ]
+}
